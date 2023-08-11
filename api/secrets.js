@@ -1,0 +1,1 @@
+export const API_URL = 'https://vitamino.sdxp.ru/api/v1';
